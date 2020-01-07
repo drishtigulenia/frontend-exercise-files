@@ -1,0 +1,95 @@
+.nav-item{
+    list-style-type: none;
+}
+.black{
+    font-size: 3em;
+}
+body{
+    background: url("https://cdn.pixabay.com/photo/2017/06/21/07/33/background-2426328__340.jpg");
+    background-size: cover;
+    background-position: center;
+    color:#ffd3b6; 
+}
+    
+.flop{
+    float: right;
+}
+.bg-light{
+    background-color: #ffd3b6;
+}
+.fa-stack{
+   
+    color: #dcedc1;
+}
+.btn-success{
+    color: antiquewhite;
+}
+.center{
+    text-align: center;
+    padding-top: 15%;
+}
+h2 > span{
+    color: white;
+}
+#login{
+    min-width: 250px;
+    background-color: floralwhite;
+    opacity: 0.7;
+    padding: 10px 10px 0;
+}
+#login .social-buttons{
+    margin: 12px 0;
+    color: white;
+}
+.btn-fb{
+    background-color: cadetblue;
+    color: aliceblue
+}
+.btn-tw{
+    background-color: skyblue;
+    color: white;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color: aquamarine;
+}
+.btn-tw:hover{
+    color: white;
+    background-color: aquamarine;
+}
+@media (max-width: 768px){
+    h1{
+        background-color: black;
+    }
+    h2{
+        background-color: black;
+    }
+}
+@media(min-width:768px){
+    h1{
+        background-color: gray;
+    }
+}
+.dropdown{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

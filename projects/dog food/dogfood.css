@@ -1,0 +1,47 @@
+body{
+    height: 50%;
+    font-family: 'Lilita One', cursive;
+}
+video{
+    z-index: 1;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+    
+}
+
+div{
+    margin:0 auto;
+    margin-top: 100px;
+    max-width: 720px;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+h1{
+    margin-bottom: 25px;
+    color: rgb(255,60,100);
+    font-size: 44px;
+    background:linear-gradient(90deg, #ffecd2 0%,#fcb69f 100% );
+    opacity: 0.9;
+    font-family: 'Lilita One', cursive;
+}
+p{
+    font-size: 1.25em;
+    background:linear-gradient(90deg, #cfd9df 0%,#e2ebf0 100% );
+    color: #555555;
+    opacity: 0.7;
+}
+button{
+    width: 75px;
+    color: cornsilk;
+    background: #cccc9a;
+/*
+    border: #1c4b46;
+    border-width: thick;
+*/
+    text-decoration: none;
+    display: inline-block;
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/drishtigulenia/Desktop/frontend/testSite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js folder"
+	}
+}

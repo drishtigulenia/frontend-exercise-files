@@ -1,0 +1,1 @@
+alert("chichi wants your location!");

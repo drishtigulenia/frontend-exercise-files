@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lakki Reddy', cursive;
+    background: url("images/body-stretching-yoga-beauty-35987.jpg")
+        no-repeat center center fixed;
+    color: antiquewhite;
+    background-size: cover;
+    }
+div{
+    border-radius: 25px;
+    border: 200px;
+    background-color: #865c50;
+    margin: 100px auto;
+    width: 50%;
+    text-align: center;
+    opacity: 0.8;
+}
+h1{
+    font-size: 4em;
+}
+button{
+    background-color: #e186a9;
+    color: yellow;
+    border-radius: 10px;
+    padding: 10px;
+}
+i{
+  color: black;
+}
